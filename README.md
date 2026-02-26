@@ -11,23 +11,6 @@
   <img src="https://img.shields.io/badge/State%20Management-BLoC%20%7C%20GetX-blue?style=for-the-badge" />
 </p>
 
----
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nawar-altibi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nawar-altibi&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
----
-
 ## 🚀 About Me
 
 I’m a **Mobile Software Engineer** specializing in architecting scalable, production-ready Flutter applications.
