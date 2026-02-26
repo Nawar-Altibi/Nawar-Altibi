@@ -41,17 +41,28 @@ Beyond mobile development, I have a strong foundation in **Software Engineering 
 
 ## 🏗️ Engineering Mindset
 
-<p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*0YvK7nqgM_6p2mQ9pG5v_g.png" width="650"/>
-</p>
+    ┌──────────────────┐
+    │  Presentation    │
+    │  (UI / State)    │
+    └─────────▲────────┘
+              │
+    ┌─────────┴────────┐
+    │      Domain      │
+    │  (Business Logic)│
+    └─────────▲────────┘
+              │
+    ┌─────────┴────────┐
+    │       Data       │
+    │  (API / Local DB)│
+    └──────────────────┘
 
-I follow a strict separation between:
 
-- Presentation Layer  
-- Domain Layer  
-- Data Layer  
+I follow strict separation of concerns to ensure:
 
-Ensuring testability, maintainability, and long-term scalability.
+- Maintainability  
+- Testability  
+- Scalability  
+- Long-term product evolution  
 
 ---
 
@@ -68,14 +79,6 @@ Firebase • SQLite • Hive • RESTful APIs • Secure Token Handling
 
 ### 🔧 Dev Practices
 Git • GitHub • GitLab • Unit Testing • Code Structuring • Version Control  
-
----
-
-## 📊 Activity Overview
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nawar-altibi&theme=tokyo-night&hide_border=true"/>
-</p>
 
 ---
 
